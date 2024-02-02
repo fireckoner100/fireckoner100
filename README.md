@@ -2,7 +2,7 @@
 
 ![Banner de GitHub](https://media.licdn.com/dms/image/D4E16AQH8G27YEB9UWw/profile-displaybackgroundimage-shrink_200_800/0/1691685961375?e=2147483647&v=beta&t=gfDYLp8Z2EZxgDr7qy4m1tlUqXiB_aNlKRQPcVQbeIc)
 
-Soy un apasionado programador con experiencia tanto en el desarrollo frontend como en el backend. Me especializo en las siguientes tecnologías:
+Soy un apasionado programador con experiencia tanto en el desarrollo frontend como en el backend. Me encanta convertir ideas en código y crear cosas geniales. 😄💻
 
 ## Acerca de mí
 
